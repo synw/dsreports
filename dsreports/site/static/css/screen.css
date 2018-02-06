@@ -1,0 +1,14 @@
+#content {
+	min-height:34em;
+}
+#footer {
+	min-height:3em;
+}
+.is-bold {
+	font-weight:bold;
+}
+.is-vcentered {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
